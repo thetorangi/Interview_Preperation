@@ -9,7 +9,7 @@ Complete Python interview preparation with 60+ questions covering:
 - Advanced topics (metaclasses, descriptors)
 - Best practices and tools
 
-### [Data Structures & Algorithms Python](https://github.com/thetorangi/dsa-algorithms-python)
+### [🚀Data Structures & Algorithms Python](https://github.com/thetorangi/dsa-algorithms-python)
    - 🔍 Searching Algorithms
    - ⚡ Sorting Algorithms
    - 📊 Array-Based Algorithms
