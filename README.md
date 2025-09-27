@@ -9,6 +9,25 @@ Complete Python interview preparation with 60+ questions covering:
 - Advanced topics (metaclasses, descriptors)
 - Best practices and tools
 
+### Data Structures & Algorithms
+- [Python DSA Repository](https://github.com/thetorangi/dsa-algorithms-python) - Implementation of:
+    🔍 Searching Algorithms
+    ⚡ Sorting Algorithms
+    📊 Array-Based Algorithms
+    🎯 Two Pointers & Sliding Window
+    📦 Stack Algorithms
+    📮 Queue & Deque Algorithms
+    🌳 Tree Algorithms
+    ⛰️ Heap / Priority Queue
+    🔡 Trie (Prefix Tree)
+    ♻️ Recursion & Divide & Conquer
+    📐 Dynamic Programming
+    💰 Greedy Algorithms
+    🕸️ Graph Algorithms
+    🛠️ Advanced DSA
+    🧩 Backtracking
+    🧮 Math & Bit Manipulation
+
 ### Other Languages
 - JavaScript (Coming Soon)
 - Java (Coming Soon)
